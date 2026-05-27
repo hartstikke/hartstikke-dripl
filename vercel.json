@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/test",
+      "destination": "https://drinkdripl.com",
+      "permanent": true
+    }
+  ]
+}
