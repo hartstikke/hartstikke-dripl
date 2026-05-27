@@ -4,6 +4,30 @@
       "source": "/test",
       "destination": "https://drinkdripl.com",
       "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "dripl.be" }],
+      "destination": "https://drinkdripl.com/nl/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.dripl.be" }],
+      "destination": "https://drinkdripl.com/nl/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "en.dripl.be" }],
+      "destination": "https://drinkdripl.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "fr.dripl.be" }],
+      "destination": "https://drinkdripl.com/fr/:path*",
+      "permanent": true
     }
   ]
 }
