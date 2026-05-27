@@ -1,31 +1,1014 @@
 {
   "redirects": [
     {
-      "source": "/test",
-      "destination": "https://drinkdripl.com",
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl",
+      "permanent": true
+    },
+    {
+      "source": "/over-ons",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/over-ons",
+      "permanent": true
+    },
+    {
+      "source": "/over-ons",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/over-ons",
+      "permanent": true
+    },
+    {
+      "source": "/missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/mission",
+      "permanent": true
+    },
+    {
+      "source": "/missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/mission",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/contact",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/contact",
+      "permanent": true
+    },
+    {
+      "source": "/pers",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/pers",
+      "permanent": true
+    },
+    {
+      "source": "/pers",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/pers",
+      "permanent": true
+    },
+    {
+      "source": "/offerte",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/offerte",
+      "permanent": true
+    },
+    {
+      "source": "/offerte",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/offerte",
+      "permanent": true
+    },
+    {
+      "source": "/jobs",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/jobs",
+      "permanent": true
+    },
+    {
+      "source": "/jobs",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/jobs",
+      "permanent": true
+    },
+    {
+      "source": "/algemene-voorwaarden",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/terms-and-conditions",
+      "permanent": true
+    },
+    {
+      "source": "/algemene-voorwaarden",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/terms-and-conditions",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/privacybeleid",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/privacybeleid",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/product/drinks",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/product/drinks",
+      "permanent": true
+    },
+    {
+      "source": "/product/drinks",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/product/drinks",
+      "permanent": true
+    },
+    {
+      "source": "/product/refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/product/refill-point",
+      "permanent": true
+    },
+    {
+      "source": "/product/refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/product/refill-point",
+      "permanent": true
+    },
+    {
+      "source": "/waterdispenser-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/waterdispenser-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/waterdispenser-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/waterdispenser-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/waterkoeler-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/waterkoeler-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/waterkoeler-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/waterkoeler-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/watertap-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/watertap-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/watertap-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/watertap-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/drankautomaat-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/drankautomaat-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/drankautomaat-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/drankautomaat-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/",
+      "permanent": true
+    },
+    {
+      "source": "/over-ons",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/about-us",
+      "permanent": true
+    },
+    {
+      "source": "/missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/mission",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/contact",
+      "permanent": true
+    },
+    {
+      "source": "/pers",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/press",
+      "permanent": true
+    },
+    {
+      "source": "/offerte",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/offer",
+      "permanent": true
+    },
+    {
+      "source": "/jobs",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/jobs",
+      "permanent": true
+    },
+    {
+      "source": "/algemene-voorwaarden",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/terms-and-conditions",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/privacybeleid",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/product/drinks",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/product/drinks",
+      "permanent": true
+    },
+    {
+      "source": "/product/refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/product/refill-point",
+      "permanent": true
+    },
+    {
+      "source": "/waterdispenser-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/waterdispenser-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/waterkoeler-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/waterkoeler-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/watertap-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/watertap-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/drankautomaat-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/drankautomaat-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr",
+      "permanent": true
+    },
+    {
+      "source": "/a-propos-de-nous",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/about-us",
+      "permanent": true
+    },
+    {
+      "source": "/mission",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/mission",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/contact",
+      "permanent": true
+    },
+    {
+      "source": "/presse",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/press",
+      "permanent": true
+    },
+    {
+      "source": "/offerte",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/offer",
+      "permanent": true
+    },
+    {
+      "source": "/jobs",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/jobs",
+      "permanent": true
+    },
+    {
+      "source": "/algemene-voorwaarden",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/terms-and-conditions",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/privacybeleid",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/produit/saveurs",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/product/drinks",
+      "permanent": true
+    },
+    {
+      "source": "/produit/refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/product/refill-point",
+      "permanent": true
+    },
+    {
+      "source": "/waterdispenser-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/waterdispenser-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/waterkoeler-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/waterkoeler-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/watertap-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/watertap-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/drankautomaat-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/drankautomaat-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/ressources",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog-tag/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog-tag/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/pers-bericht/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/pers-bericht/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/jobs/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog-tag/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog-tag/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/pers-bericht/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/pers-bericht/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/jobs/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog-tag/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog-tag/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/pers-bericht/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/pers-bericht/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/jobs/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog-tag/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog-tag/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/pers-bericht/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/pers-bericht/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/jobs/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/resources/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/resources/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/resources/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/ressources/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/:slug*",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "dripl.be" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
       "destination": "https://drinkdripl.com/nl/:path*",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.dripl.be" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
       "destination": "https://drinkdripl.com/nl/:path*",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "en.dripl.be" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
       "destination": "https://drinkdripl.com/:path*",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "fr.dripl.be" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
       "destination": "https://drinkdripl.com/fr/:path*",
       "permanent": true
     }
