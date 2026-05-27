@@ -52,7 +52,7 @@
           "value": "dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/mission",
+      "destination": "https://drinkdripl.com/nl/over-ons",
       "permanent": true
     },
     {
@@ -63,7 +63,7 @@
           "value": "www.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/mission",
+      "destination": "https://drinkdripl.com/nl/over-ons",
       "permanent": true
     },
     {
@@ -372,6 +372,28 @@
         }
       ],
       "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/downloads",
+      "permanent": true
+    },
+    {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/downloads",
       "permanent": true
     },
     {
@@ -404,7 +426,7 @@
           "value": "en.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/mission",
+      "destination": "https://drinkdripl.com/about-us",
       "permanent": true
     },
     {
@@ -562,6 +584,17 @@
       "permanent": true
     },
     {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/downloads",
+      "permanent": true
+    },
+    {
       "source": "/",
       "has": [
         {
@@ -591,7 +624,7 @@
           "value": "fr.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/fr/mission",
+      "destination": "https://drinkdripl.com/fr/about-us",
       "permanent": true
     },
     {
@@ -746,6 +779,17 @@
         }
       ],
       "destination": "https://drinkdripl.com/fr/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/downloads",
       "permanent": true
     },
     {
