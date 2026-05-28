@@ -133,6 +133,28 @@
       "permanent": true
     },
     {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/downloads",
+      "permanent": true
+    },
+    {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/downloads",
+      "permanent": true
+    },
+    {
       "source": "/jobs",
       "has": [
         {
@@ -272,7 +294,7 @@
           "value": "dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/waterdispenser-kantoor",
+      "destination": "https://drinkdripl.com/nl/water-dispenser-office",
       "permanent": true
     },
     {
@@ -283,7 +305,7 @@
           "value": "www.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/waterdispenser-kantoor",
+      "destination": "https://drinkdripl.com/nl/water-dispenser-office",
       "permanent": true
     },
     {
@@ -294,7 +316,7 @@
           "value": "dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/waterkoeler-op-kantoor",
+      "destination": "https://drinkdripl.com/nl/water-dispenser-office",
       "permanent": true
     },
     {
@@ -305,7 +327,7 @@
           "value": "www.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/waterkoeler-op-kantoor",
+      "destination": "https://drinkdripl.com/nl/water-dispenser-office",
       "permanent": true
     },
     {
@@ -316,7 +338,7 @@
           "value": "dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/watertap-op-kantoor",
+      "destination": "https://drinkdripl.com/nl/water-dispenser-office",
       "permanent": true
     },
     {
@@ -327,7 +349,7 @@
           "value": "www.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/watertap-op-kantoor",
+      "destination": "https://drinkdripl.com/nl/water-dispenser-office",
       "permanent": true
     },
     {
@@ -372,28 +394,6 @@
         }
       ],
       "destination": "https://drinkdripl.com/nl/resources/blog",
-      "permanent": true
-    },
-    {
-      "source": "/calculator",
-      "has": [
-        {
-          "type": "host",
-          "value": "dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/resources/downloads",
-      "permanent": true
-    },
-    {
-      "source": "/calculator",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/resources/downloads",
       "permanent": true
     },
     {
@@ -460,6 +460,17 @@
         }
       ],
       "destination": "https://drinkdripl.com/offer",
+      "permanent": true
+    },
+    {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/downloads",
       "permanent": true
     },
     {
@@ -536,7 +547,7 @@
           "value": "en.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/waterdispenser-kantoor",
+      "destination": "https://drinkdripl.com/water-dispenser-office",
       "permanent": true
     },
     {
@@ -547,7 +558,7 @@
           "value": "en.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/waterkoeler-op-kantoor",
+      "destination": "https://drinkdripl.com/water-dispenser-office",
       "permanent": true
     },
     {
@@ -558,7 +569,7 @@
           "value": "en.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/watertap-op-kantoor",
+      "destination": "https://drinkdripl.com/water-dispenser-office",
       "permanent": true
     },
     {
@@ -581,17 +592,6 @@
         }
       ],
       "destination": "https://drinkdripl.com/resources/blog",
-      "permanent": true
-    },
-    {
-      "source": "/calculator",
-      "has": [
-        {
-          "type": "host",
-          "value": "en.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/resources/downloads",
       "permanent": true
     },
     {
@@ -658,6 +658,17 @@
         }
       ],
       "destination": "https://drinkdripl.com/fr/offer",
+      "permanent": true
+    },
+    {
+      "source": "/calculator",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/downloads",
       "permanent": true
     },
     {
@@ -734,7 +745,7 @@
           "value": "fr.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/fr/waterdispenser-kantoor",
+      "destination": "https://drinkdripl.com/fr/water-dispenser-office",
       "permanent": true
     },
     {
@@ -745,7 +756,7 @@
           "value": "fr.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/fr/waterkoeler-op-kantoor",
+      "destination": "https://drinkdripl.com/fr/water-dispenser-office",
       "permanent": true
     },
     {
@@ -756,7 +767,7 @@
           "value": "fr.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/fr/watertap-op-kantoor",
+      "destination": "https://drinkdripl.com/fr/water-dispenser-office",
       "permanent": true
     },
     {
@@ -779,17 +790,6 @@
         }
       ],
       "destination": "https://drinkdripl.com/fr/resources/blog",
-      "permanent": true
-    },
-    {
-      "source": "/calculator",
-      "has": [
-        {
-          "type": "host",
-          "value": "fr.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/fr/resources/downloads",
       "permanent": true
     },
     {
