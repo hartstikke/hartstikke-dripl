@@ -793,102 +793,3633 @@
       "permanent": true
     },
     {
-      "source": "/blog/:slug*",
+      "source": "/blog/25-ontluisterende-statistieken-over-wegwerpverpakkingen",
       "has": [
         {
           "type": "host",
           "value": "dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/blog/:slug*",
+      "destination": "https://drinkdripl.com/nl/blog/25-ontluisterende-statistieken-over-wegwerpverpakkingen",
       "permanent": true
     },
     {
-      "source": "/blog-tag/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/blog-tag/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/pers-bericht/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/pers-bericht/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/jobs/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/jobs/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/blog/:slug*",
+      "source": "/blog/25-ontluisterende-statistieken-over-wegwerpverpakkingen",
       "has": [
         {
           "type": "host",
           "value": "www.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/nl/blog/:slug*",
+      "destination": "https://drinkdripl.com/nl/blog/25-ontluisterende-statistieken-over-wegwerpverpakkingen",
       "permanent": true
     },
     {
-      "source": "/blog-tag/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/blog-tag/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/pers-bericht/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/pers-bericht/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/jobs/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/nl/jobs/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/blog/:slug*",
+      "source": "/blog/25-ontluisterende-statistieken-over-wegwerpverpakkingen",
       "has": [
         {
           "type": "host",
           "value": "en.dripl.be"
         }
       ],
-      "destination": "https://drinkdripl.com/blog/:slug*",
+      "destination": "https://drinkdripl.com/blog/25-shocking-statistics-about-disposable-packaging",
+      "permanent": true
+    },
+    {
+      "source": "/blog/25-ontluisterende-statistieken-over-wegwerpverpakkingen",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/25-statistiques-choquantes-sur-les-emballages-jetables",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-dingen-die-je-nog-niet-wist-over-mate",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-dingen-die-je-nog-niet-wist-over-mate",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-dingen-die-je-nog-niet-wist-over-mate",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-dingen-die-je-nog-niet-wist-over-mate",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-dingen-die-je-nog-niet-wist-over-mate",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/5-things-you-didnt-know-about-mate",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-dingen-die-je-nog-niet-wist-over-mate",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/5-choses-que-tu-ne-savais-pas-sur-mon-pote",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-keer-de-echte-kosten-van-een-drankautomaat-op-kantoor-en-hoe-je-ze-vermijdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-keer-de-echte-kosten-van-een-drankautomaat-op-kantoor-en-hoe-je-ze-vermijdt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-keer-de-echte-kosten-van-een-drankautomaat-op-kantoor-en-hoe-je-ze-vermijdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-keer-de-echte-kosten-van-een-drankautomaat-op-kantoor-en-hoe-je-ze-vermijdt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-keer-de-echte-kosten-van-een-drankautomaat-op-kantoor-en-hoe-je-ze-vermijdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/5-times-the-real-cost-of-an-office-drink-machine-and-how-to-avoid-them",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-keer-de-echte-kosten-van-een-drankautomaat-op-kantoor-en-hoe-je-ze-vermijdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/5-fois-le-cout-reel-dun-distributeur-de-boissons-au-bureau-et-comment-les-eviter",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-mythes-over-verpakkingen-doorprikt-een-informatief-gesprek-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-mythes-over-verpakkingen-doorprikt-een-informatief-gesprek-met-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-mythes-over-verpakkingen-doorprikt-een-informatief-gesprek-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-mythes-over-verpakkingen-doorprikt-een-informatief-gesprek-met-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-mythes-over-verpakkingen-doorprikt-een-informatief-gesprek-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/5-myths-about-packaging-debunked-by-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-mythes-over-verpakkingen-doorprikt-een-informatief-gesprek-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/5-mythes-sur-lemballage-demystifies-par-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-tips-om-om-te-gaan-met-de-invoering-van-statiegeld-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-tips-om-om-te-gaan-met-de-invoering-van-statiegeld-in-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-tips-om-om-te-gaan-met-de-invoering-van-statiegeld-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/5-tips-om-om-te-gaan-met-de-invoering-van-statiegeld-in-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-tips-om-om-te-gaan-met-de-invoering-van-statiegeld-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/5-tips-for-dealing-with-the-introduction-of-deposits-in-the-netherlands",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-tips-om-om-te-gaan-met-de-invoering-van-statiegeld-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/5-conseils-pour-gerer-lintroduction-des-depots-aux-pays-bas",
+      "permanent": true
+    },
+    {
+      "source": "/blog/9-innovatieve-oplossingen-om-je-medewerkers-terug-naar-de-werkvloer-te-lokken",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/9-innovatieve-oplossingen-om-je-medewerkers-terug-naar-de-werkvloer-te-lokken",
+      "permanent": true
+    },
+    {
+      "source": "/blog/9-innovatieve-oplossingen-om-je-medewerkers-terug-naar-de-werkvloer-te-lokken",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/9-innovatieve-oplossingen-om-je-medewerkers-terug-naar-de-werkvloer-te-lokken",
+      "permanent": true
+    },
+    {
+      "source": "/blog/9-innovatieve-oplossingen-om-je-medewerkers-terug-naar-de-werkvloer-te-lokken",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/9-innovative-solutions-to-attract-your-employees-back-to-the-workplace",
+      "permanent": true
+    },
+    {
+      "source": "/blog/9-innovatieve-oplossingen-om-je-medewerkers-terug-naar-de-werkvloer-te-lokken",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/9-solutions-innovantes-pour-inciter-vos-collaborateurs-a-revenir-sur-le-lieu-de-travail",
+      "permanent": true
+    },
+    {
+      "source": "/blog/afvalpreventie-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/afvalpreventie-op-kantoor-in-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/blog/afvalpreventie-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/afvalpreventie-op-kantoor-in-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/blog/afvalpreventie-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/waste-prevention-at-the-office-in-the-netherlands",
+      "permanent": true
+    },
+    {
+      "source": "/blog/afvalpreventie-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/prevention-des-dechets-au-bureau-aux-pays-bas",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bespaar-tot-14-met-je-refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/bespaar-tot-14-met-je-refill-point",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bespaar-tot-14-met-je-refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/bespaar-tot-14-met-je-refill-point",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bespaar-tot-14-met-je-refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/save-up-to-14-with-your-refill-point-via-the-miavamil-scheme",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bespaar-tot-14-met-je-refill-point",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/economisez-jusqua-14-avec-votre-point-recharge-via-le-dispositif-miavamil",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-belg-maakt-zich-zorgen-om-microplastics-river-cleanup-x-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-belg-maakt-zich-zorgen-om-microplastics-river-cleanup-x-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-belg-maakt-zich-zorgen-om-microplastics-river-cleanup-x-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-belg-maakt-zich-zorgen-om-microplastics-river-cleanup-x-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-belg-maakt-zich-zorgen-om-microplastics-river-cleanup-x-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-belgian-is-concerned-about-microplastics-river-cleanup-x-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-belg-maakt-zich-zorgen-om-microplastics-river-cleanup-x-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/le-belge-sinquiete-des-microplastiques-river-cleanup-x-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-impact-van-microplastics-op-je-lichaam",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-impact-van-microplastics-op-je-lichaam",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-impact-van-microplastics-op-je-lichaam",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-impact-van-microplastics-op-je-lichaam",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-impact-van-microplastics-op-je-lichaam",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-impact-of-microplastics-on-your-body",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-impact-van-microplastics-op-je-lichaam",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/limpact-des-microplastiques-sur-votre-corps",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-plastic-toeslag-op-kantoor-dit-betekent-het",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-plastic-toeslag-op-kantoor-dit-betekent-het",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-plastic-toeslag-op-kantoor-dit-betekent-het",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-plastic-toeslag-op-kantoor-dit-betekent-het",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-plastic-toeslag-op-kantoor-dit-betekent-het",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-plastic-surcharge-at-the-office-this-is-what-it-means",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-plastic-toeslag-op-kantoor-dit-betekent-het",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/le-supplement-plastique-au-bureau-voila-ce-que-cela-signifie",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-single-use-plastics-directive-in-nederland-alles-wat-je-moet-weten-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-single-use-plastics-directive-in-nederland-alles-wat-je-moet-weten-voor-jouw-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-single-use-plastics-directive-in-nederland-alles-wat-je-moet-weten-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/de-single-use-plastics-directive-in-nederland-alles-wat-je-moet-weten-voor-jouw-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-single-use-plastics-directive-in-nederland-alles-wat-je-moet-weten-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-single-use-plastics-directive-in-the-netherlands-everything-you-need-to-know-for-your-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-single-use-plastics-directive-in-nederland-alles-wat-je-moet-weten-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/la-directive-sur-les-plastiques-a-usage-unique-aux-pays-bas-tout-ce-que-vous-devez-savoir-pour-votre-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/drankautomaat-kiezen-dit-is-de-slimste-optie-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/drankautomaat-kiezen-dit-is-de-slimste-optie-voor-jouw-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/drankautomaat-kiezen-dit-is-de-slimste-optie-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/drankautomaat-kiezen-dit-is-de-slimste-optie-voor-jouw-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/drankautomaat-kiezen-dit-is-de-slimste-optie-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/choose-a-drinks-machine-these-are-the-smartest-options-for-your-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/drankautomaat-kiezen-dit-is-de-slimste-optie-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/choisir-un-distributeur-de-boissons-ce-sont-les-options-les-plus-intelligentes-pour-votre-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-center-parcs-vossemeren",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-center-parcs-vossemeren",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-center-parcs-vossemeren",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-center-parcs-vossemeren",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-center-parcs-vossemeren",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-center-parcs-vossemeren",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-center-parcs-vossemeren",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/affaire-dripl-center-parcs-vossemeren",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-citymesh",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-citymesh",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-citymesh",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-citymesh",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-citymesh",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-citymesh",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-citymesh",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-dripl-citymesh",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-cordeel-group",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-cordeel-group",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-cordeel-group",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-cordeel-group",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-cordeel-group",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-cordeel-group",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-cordeel-group",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-dripl-groupe-cordeel",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/drip-case-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-degouttement-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-jbc",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-jbc",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-jbc",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-jbc",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-jbc",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/etui-goutte-a-goutte-jbc",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-milliken-textiles-bv",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-milliken-textiles-bv",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-milliken-textiles-bv",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-milliken-textiles-bv",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-milliken-textiles-bv",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-milliken-textiles-bv",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-milliken-textiles-bv",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-dripl-milliken-textiles-bv",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-norriq",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-norriq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-norriq",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-norriq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-norriq",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/drip-case-norriq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-norriq",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/etui-goutte-a-goutte-norriq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-team-leader",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-dripl-chef-dequipe",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-dripl-manutention-des-materiaux-toyota",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-unit-t",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-unit-t",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-unit-t",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-unit-t",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-unit-t",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/dripl-case-unit-t",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-unit-t",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/etui-dripl-unite-t",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-visma-amsterdam",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-visma-amsterdam",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-visma-amsterdam",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/dripl-case-visma-amsterdam",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-visma-amsterdam",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/drip-case-visma-amsterdam",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dripl-case-visma-amsterdam",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/cas-degouttement-visma-amsterdam",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duurzaam-makkelijk-en-gezond-het-matcht-tussen-ixor-en-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duurzaam-makkelijk-en-gezond-het-matcht-tussen-ixor-en-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duurzaam-makkelijk-en-gezond-het-matcht-tussen-ixor-en-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/sustainable-easy-and-healthy-it-matches-ixor-and-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duurzaam-makkelijk-en-gezond-het-matcht-tussen-ixor-en-dripl",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/durable-facile-et-sain-il-correspond-a-ixor-et-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/een-drankautomaat-kopen-of-huren-waar-moet-je-op-letten",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/een-drankautomaat-kopen-of-huren-waar-moet-je-op-letten",
+      "permanent": true
+    },
+    {
+      "source": "/blog/een-drankautomaat-kopen-of-huren-waar-moet-je-op-letten",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/een-drankautomaat-kopen-of-huren-waar-moet-je-op-letten",
+      "permanent": true
+    },
+    {
+      "source": "/blog/een-drankautomaat-kopen-of-huren-waar-moet-je-op-letten",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/buying-or-renting-a-drinks-machine-what-should-you-pay-attention-to",
+      "permanent": true
+    },
+    {
+      "source": "/blog/een-drankautomaat-kopen-of-huren-waar-moet-je-op-letten",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/acheter-ou-louer-un-distributeur-de-boissons-a-quoi-faut-il-faire-attention",
+      "permanent": true
+    },
+    {
+      "source": "/blog/facility-managers-duurzaamheid-troef-in-de-war-for-talent",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/facility-managers-duurzaamheid-troef-in-de-war-for-talent",
+      "permanent": true
+    },
+    {
+      "source": "/blog/facility-managers-duurzaamheid-troef-in-de-war-for-talent",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/facility-managers-duurzaamheid-troef-in-de-war-for-talent",
+      "permanent": true
+    },
+    {
+      "source": "/blog/facility-managers-duurzaamheid-troef-in-de-war-for-talent",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/facility-managers-sustainability-an-asset-in-the-war-for-talent",
+      "permanent": true
+    },
+    {
+      "source": "/blog/facility-managers-duurzaamheid-troef-in-de-war-for-talent",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/gestionnaires-dinstallations-et-developpement-durable-un-atout-dans-la-guerre-des-talents",
+      "permanent": true
+    },
+    {
+      "source": "/blog/get-to-know-the-minds-behind-the-refill-point-2-0-lucas-edward",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/get-to-know-the-minds-behind-the-refill-point-2-0-lucas-edward",
+      "permanent": true
+    },
+    {
+      "source": "/blog/get-to-know-the-minds-behind-the-refill-point-2-0-lucas-edward",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/get-to-know-the-minds-behind-the-refill-point-2-0-lucas-edward",
+      "permanent": true
+    },
+    {
+      "source": "/blog/get-to-know-the-minds-behind-the-refill-point-2-0-lucas-edward",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/discover-who-is-behind-dripls-refill-point-20-lucas-and-edward",
+      "permanent": true
+    },
+    {
+      "source": "/blog/get-to-know-the-minds-behind-the-refill-point-2-0-lucas-edward",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/decouvrez-qui-se-cache-derriere-le-point-de-recharge-20-de-dripl-lucas-et-edward",
+      "permanent": true
+    },
+    {
+      "source": "/blog/health-work-hoe-voeding-je-brein-en-business-beinvloedt",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/health-work-hoe-voeding-je-brein-en-business-beinvloedt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/health-work-hoe-voeding-je-brein-en-business-beinvloedt",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/health-work-hoe-voeding-je-brein-en-business-beinvloedt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/health-work-hoe-voeding-je-brein-en-business-beinvloedt",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/health-work-how-nutrition-affects-your-brain-and-business",
+      "permanent": true
+    },
+    {
+      "source": "/blog/health-work-hoe-voeding-je-brein-en-business-beinvloedt",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/sante-au-travail-comment-la-nutrition-affecte-votre-cerveau-et-votre-entreprise",
+      "permanent": true
+    },
+    {
+      "source": "/blog/help-mijn-kantoor-heeft-dorst",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/help-mijn-kantoor-heeft-dorst",
+      "permanent": true
+    },
+    {
+      "source": "/blog/help-mijn-kantoor-heeft-dorst",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/help-mijn-kantoor-heeft-dorst",
+      "permanent": true
+    },
+    {
+      "source": "/blog/help-mijn-kantoor-heeft-dorst",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/help-my-office-is-thirsty",
+      "permanent": true
+    },
+    {
+      "source": "/blog/help-mijn-kantoor-heeft-dorst",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/aide-mon-bureau-a-soif",
+      "permanent": true
+    },
+    {
+      "source": "/blog/het-verhaal-achter-de-dripl-missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/het-verhaal-achter-de-dripl-missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/het-verhaal-achter-de-dripl-missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-story-behind-the-dripl-mission",
+      "permanent": true
+    },
+    {
+      "source": "/blog/het-verhaal-achter-de-dripl-missie",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/lhistoire-derriere-la-mission-dripl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-hubspot-haar-werknemers-gemotiveerd-houdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/hoe-hubspot-haar-werknemers-gemotiveerd-houdt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-hubspot-haar-werknemers-gemotiveerd-houdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/hoe-hubspot-haar-werknemers-gemotiveerd-houdt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-hubspot-haar-werknemers-gemotiveerd-houdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/how-hubspot-keeps-its-employees-motivated",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-hubspot-haar-werknemers-gemotiveerd-houdt",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/comment-hubspot-maintient-la-motivation-de-ses-employes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-watertaps-bijdragen-aan-esg-doelstellingen",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/hoe-watertaps-bijdragen-aan-esg-doelstellingen",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-watertaps-bijdragen-aan-esg-doelstellingen",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/hoe-watertaps-bijdragen-aan-esg-doelstellingen",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-watertaps-bijdragen-aan-esg-doelstellingen",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/how-water-taps-contribute-to-esg-objectives",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoe-watertaps-bijdragen-aan-esg-doelstellingen",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/comment-les-robinets-deau-contribuent-aux-objectifs-esg",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoeveel-water-heb-je-echt-nodig-op-een-werkdag",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/hoeveel-water-heb-je-echt-nodig-op-een-werkdag",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoeveel-water-heb-je-echt-nodig-op-een-werkdag",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/hoeveel-water-heb-je-echt-nodig-op-een-werkdag",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoeveel-water-heb-je-echt-nodig-op-een-werkdag",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/how-much-water-do-you-really-need-on-a-working-day",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hoeveel-water-heb-je-echt-nodig-op-een-werkdag",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/de-quelle-quantite-deau-avez-vous-reellement-besoin-par-jour-de-travail",
+      "permanent": true
+    },
+    {
+      "source": "/blog/in-3-stappen-een-business-case-maken-voor-je-duurzaamheidsinitiatief",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/in-3-stappen-een-business-case-maken-voor-je-duurzaamheidsinitiatief",
+      "permanent": true
+    },
+    {
+      "source": "/blog/in-3-stappen-een-business-case-maken-voor-je-duurzaamheidsinitiatief",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/in-3-stappen-een-business-case-maken-voor-je-duurzaamheidsinitiatief",
+      "permanent": true
+    },
+    {
+      "source": "/blog/in-3-stappen-een-business-case-maken-voor-je-duurzaamheidsinitiatief",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/make-a-business-case-for-your-sustainability-initiative-in-3-steps",
+      "permanent": true
+    },
+    {
+      "source": "/blog/in-3-stappen-een-business-case-maken-voor-je-duurzaamheidsinitiatief",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/realisez-une-analyse-de-rentabilite-de-votre-initiative-de-developpement-durable-en-3-etapes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-jouw-kantooromgeving-al-up-to-date-arvesta-doet-het-je-voor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/is-jouw-kantooromgeving-al-up-to-date-arvesta-doet-het-je-voor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-jouw-kantooromgeving-al-up-to-date-arvesta-doet-het-je-voor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/is-jouw-kantooromgeving-al-up-to-date-arvesta-doet-het-je-voor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-jouw-kantooromgeving-al-up-to-date-arvesta-doet-het-je-voor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/is-your-office-environment-already-up-to-date-arvesta-will-show-you",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-jouw-kantooromgeving-al-up-to-date-arvesta-doet-het-je-voor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/votre-environnement-de-bureau-est-il-deja-a-jour-arvesta-va-vous-le-montrer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/klimaatneutrale-kantoren-in-nederland-de-toekomst",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/klimaatneutrale-kantoren-in-nederland-de-toekomst",
+      "permanent": true
+    },
+    {
+      "source": "/blog/klimaatneutrale-kantoren-in-nederland-de-toekomst",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/klimaatneutrale-kantoren-in-nederland-de-toekomst",
+      "permanent": true
+    },
+    {
+      "source": "/blog/klimaatneutrale-kantoren-in-nederland-de-toekomst",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/climate-neutral-offices-in-the-netherlands-the-future",
+      "permanent": true
+    },
+    {
+      "source": "/blog/klimaatneutrale-kantoren-in-nederland-de-toekomst",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/des-bureaux-climatiquement-neutres-aux-pays-bas-lavenir",
+      "permanent": true
+    },
+    {
+      "source": "/blog/micro-plastics-in-nl",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/micro-plastics-in-nl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/micro-plastics-in-nl",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/micro-plastics-in-nl",
+      "permanent": true
+    },
+    {
+      "source": "/blog/micro-plastics-in-nl",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/microplastics-in-the-netherlands-what-exactly-is-that",
+      "permanent": true
+    },
+    {
+      "source": "/blog/micro-plastics-in-nl",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/les-microplastiques-aux-pays-bas-quest-ce-que-cest-exactement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mistral-home-bouwt-mee-aan-groenere-textielsector-dankzij-dripl-afval-verminderen-en-gezonder-drinken",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mistral-home-bouwt-mee-aan-groenere-textielsector-dankzij-dripl-afval-verminderen-en-gezonder-drinken",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mistral-home-bouwt-mee-aan-groenere-textielsector-dankzij-dripl-afval-verminderen-en-gezonder-drinken",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/mistral-home-is-helping-to-build-a-greener-textile-sector-thanks-to-dripl-reduce-waste-and-drink-healthier",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mistral-home-bouwt-mee-aan-groenere-textielsector-dankzij-dripl-afval-verminderen-en-gezonder-drinken",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/mistral-home-contribue-a-construire-une-filiere-textile-plus-verte-grace-a-dripl-reduisez-les-dechets-et-buvez-plus-sainement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-1-het-draait-allemaal-rond-een-sense-of-belonging",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-1-1-het-draait-allemaal-rond-een-sense-of-belonging",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-1-het-draait-allemaal-rond-een-sense-of-belonging",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-1-1-het-draait-allemaal-rond-een-sense-of-belonging",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-1-het-draait-allemaal-rond-een-sense-of-belonging",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/office-insights-its-all-about-a-sense-of-belonging",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-1-het-draait-allemaal-rond-een-sense-of-belonging",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/office-insights-tout-est-une-question-de-sentiment-dappartenance",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-hoe-houdt-hubspot-haar-werknemers-gemotiveerd",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-1-hoe-houdt-hubspot-haar-werknemers-gemotiveerd",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-hoe-houdt-hubspot-haar-werknemers-gemotiveerd",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-1-hoe-houdt-hubspot-haar-werknemers-gemotiveerd",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-hoe-houdt-hubspot-haar-werknemers-gemotiveerd",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/office-insights-how-does-hubspot-keep-its-employees-motivated",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-1-hoe-houdt-hubspot-haar-werknemers-gemotiveerd",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/office-insights-comment-hubspot-maintient-il-la-motivation-de-ses-employes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-1-veel-meningen-weinig-judgement",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-2-1-veel-meningen-weinig-judgement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-1-veel-meningen-weinig-judgement",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-2-1-veel-meningen-weinig-judgement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-1-veel-meningen-weinig-judgement",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/office-insights-many-opinions-little-judgment",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-1-veel-meningen-weinig-judgement",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/office-insights-beaucoup-dopinions-peu-de-jugement",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-een-ballenbad-voor-de-productiviteit-en-de-creativiteit",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-2-een-ballenbad-voor-de-productiviteit-en-de-creativiteit",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-een-ballenbad-voor-de-productiviteit-en-de-creativiteit",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-2-een-ballenbad-voor-de-productiviteit-en-de-creativiteit",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-een-ballenbad-voor-de-productiviteit-en-de-creativiteit",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/office-insights-a-ball-pool-for-productivity-and-creativity",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-2-een-ballenbad-voor-de-productiviteit-en-de-creativiteit",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/office-insights-une-piscine-a-balles-pour-la-productivite-et-la-creativite",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-1-als-het-toen-niet-in-de-excelsheet-paste-dan-ging-het-gewoon-niet",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-3-1-als-het-toen-niet-in-de-excelsheet-paste-dan-ging-het-gewoon-niet",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-1-als-het-toen-niet-in-de-excelsheet-paste-dan-ging-het-gewoon-niet",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-3-1-als-het-toen-niet-in-de-excelsheet-paste-dan-ging-het-gewoon-niet",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-1-als-het-toen-niet-in-de-excelsheet-paste-dan-ging-het-gewoon-niet",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/office-insights-if-it-didnt-fit-in-the-excel-sheet-then-it-just-didnt-work",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-1-als-het-toen-niet-in-de-excelsheet-paste-dan-ging-het-gewoon-niet",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/office-insights-si-cela-ne-rentrait-pas-dans-la-feuille-excel-cela-ne-fonctionnait-tout-simplement-pas",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-what-about-your-culture",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-3-what-about-your-culture",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-what-about-your-culture",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/office-insights-episode-3-what-about-your-culture",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-what-about-your-culture",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/office-insights-what-about-your-culture",
+      "permanent": true
+    },
+    {
+      "source": "/blog/office-insights-episode-3-what-about-your-culture",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/office-insights-quen-est-il-de-votre-culture",
+      "permanent": true
+    },
+    {
+      "source": "/blog/op-1-april-2023-wordt-statiegeld-in-nederland-verplicht-dit-is-alles-wat-je-moet-weten",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/op-1-april-2023-wordt-statiegeld-in-nederland-verplicht-dit-is-alles-wat-je-moet-weten",
+      "permanent": true
+    },
+    {
+      "source": "/blog/op-1-april-2023-wordt-statiegeld-in-nederland-verplicht-dit-is-alles-wat-je-moet-weten",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/op-1-april-2023-wordt-statiegeld-in-nederland-verplicht-dit-is-alles-wat-je-moet-weten",
+      "permanent": true
+    },
+    {
+      "source": "/blog/op-1-april-2023-wordt-statiegeld-in-nederland-verplicht-dit-is-alles-wat-je-moet-weten",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/on-april-1-2023-deposits-will-become-mandatory-in-the-netherlands-this-is-all-you-need-to-know",
+      "permanent": true
+    },
+    {
+      "source": "/blog/op-1-april-2023-wordt-statiegeld-in-nederland-verplicht-dit-is-alles-wat-je-moet-weten",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/le-1er-avril-2023-les-depots-deviendront-obligatoires-aux-pays-bas-cest-tout-ce-que-vous-devez-savoir",
+      "permanent": true
+    },
+    {
+      "source": "/blog/personeelsleden-samen-in-het-ballenbad-dagelijkse-kost-bij-lighthouse",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/personeelsleden-samen-in-het-ballenbad-dagelijkse-kost-bij-lighthouse",
+      "permanent": true
+    },
+    {
+      "source": "/blog/personeelsleden-samen-in-het-ballenbad-dagelijkse-kost-bij-lighthouse",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/personeelsleden-samen-in-het-ballenbad-dagelijkse-kost-bij-lighthouse",
+      "permanent": true
+    },
+    {
+      "source": "/blog/personeelsleden-samen-in-het-ballenbad-dagelijkse-kost-bij-lighthouse",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/staff-members-together-in-the-ball-pool-daily-fare-at-lighthouse",
+      "permanent": true
+    },
+    {
+      "source": "/blog/personeelsleden-samen-in-het-ballenbad-dagelijkse-kost-bij-lighthouse",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/des-membres-du-personnel-reunis-dans-la-piscine-a-balles-tarif-quotidien-au-phare",
+      "permanent": true
+    },
+    {
+      "source": "/blog/productiviteit-hydratatie-waarom-genoeg-drinken-zo-belangrijk-is",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/productiviteit-hydratatie-waarom-genoeg-drinken-zo-belangrijk-is",
+      "permanent": true
+    },
+    {
+      "source": "/blog/productiviteit-hydratatie-waarom-genoeg-drinken-zo-belangrijk-is",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/productiviteit-hydratatie-waarom-genoeg-drinken-zo-belangrijk-is",
+      "permanent": true
+    },
+    {
+      "source": "/blog/productiviteit-hydratatie-waarom-genoeg-drinken-zo-belangrijk-is",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/productivity-hydration-why-drinking-enough-is-so-important",
+      "permanent": true
+    },
+    {
+      "source": "/blog/productiviteit-hydratatie-waarom-genoeg-drinken-zo-belangrijk-is",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/productivite-et-hydratation-pourquoi-boire-suffisamment-est-si-important",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks---nick-de-lil-workplace-experience-bij-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks---nick-de-lil-workplace-experience-bij-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks---nick-de-lil-workplace-experience-bij-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/refill-talks-nick-de-lil-workplace-experience-at-teamleader",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks---nick-de-lil-workplace-experience-bij-teamleader",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/discussions-sur-les-recharges-nick-de-lil-experience-en-milieu-de-travail-chez-teamleader",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-birgitt-vandermeersch-workplace-experience-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/refill-talks-birgitt-vandermeersch-workplace-experience-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-birgitt-vandermeersch-workplace-experience-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/refill-talks-birgitt-vandermeersch-workplace-experience-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-birgitt-vandermeersch-workplace-experience-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/refill-talks-birgitt-vandermeersch-workplace-experience-at-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-birgitt-vandermeersch-workplace-experience-ipsos",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/discussions-sur-les-recharges-birgitt-vandermeersch-experience-professionnelle-chez-ipsos",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-lies-dumarey-workplace-experience-logi-technic",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/refill-talks-lies-dumarey-workplace-experience-logi-technic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-lies-dumarey-workplace-experience-logi-technic",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/refill-talks-lies-dumarey-workplace-experience-logi-technic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-lies-dumarey-workplace-experience-logi-technic",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-lies-dumarey-workplace-experience-logi-technic",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-workplace-experience-center-parcs",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/refill-talks-workplace-experience-center-parcs",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-workplace-experience-center-parcs",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/refill-talks-workplace-experience-center-parcs",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-workplace-experience-center-parcs",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/refill-talks-erik-smit-workplace-experience-at-center-parcs",
+      "permanent": true
+    },
+    {
+      "source": "/blog/refill-talks-workplace-experience-center-parcs",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/discussions-sur-les-recharges-erik-smit-experience-en-milieu-de-travail-chez-center-parcs",
+      "permanent": true
+    },
+    {
+      "source": "/blog/single-use-in-nederland---verbazingwekkende-cijfers",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/single-use-in-nederland---verbazingwekkende-cijfers",
+      "permanent": true
+    },
+    {
+      "source": "/blog/single-use-in-nederland---verbazingwekkende-cijfers",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/single-use-in-nederland---verbazingwekkende-cijfers",
+      "permanent": true
+    },
+    {
+      "source": "/blog/single-use-in-nederland---verbazingwekkende-cijfers",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/single-use-in-the-netherlands-surprising-figures",
+      "permanent": true
+    },
+    {
+      "source": "/blog/single-use-in-nederland---verbazingwekkende-cijfers",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/usage-unique-aux-pays-bas-des-chiffres-surprenants",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-cordeels-recept-voor-blije-medewerkers",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-cordeels-recept-voor-blije-medewerkers",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-cordeels-recept-voor-blije-medewerkers",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-cordeels-recept-voor-blije-medewerkers",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-cordeels-recept-voor-blije-medewerkers",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/sip-share-cordeels-recipe-for-happy-employees",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-cordeels-recept-voor-blije-medewerkers",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/sip-share-la-recette-de-cordeel-pour-des-collaborateurs-heureux",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-duurzaamheid-en-welzijn-combineren-hubspots-kantoorstrategie",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-duurzaamheid-en-welzijn-combineren-hubspots-kantoorstrategie",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-duurzaamheid-en-welzijn-combineren-hubspots-kantoorstrategie",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-duurzaamheid-en-welzijn-combineren-hubspots-kantoorstrategie",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-duurzaamheid-en-welzijn-combineren-hubspots-kantoorstrategie",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/sip-share-combining-sustainability-and-well-being-hubspots-office-strategy",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-duurzaamheid-en-welzijn-combineren-hubspots-kantoorstrategie",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/sip-share-allier-durabilite-et-bien-etre-la-strategie-bureau-de-hubspot",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-hybride-werken-bij-visma-software",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-hybride-werken-bij-visma-software",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-hybride-werken-bij-visma-software",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-hybride-werken-bij-visma-software",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-hybride-werken-bij-visma-software",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/sip-share-hybrid-working-at-visma-software",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-hybride-werken-bij-visma-software",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/sip-share-travail-hybride-chez-visma-software",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-wellbeing-op-de-jbc-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-wellbeing-op-de-jbc-werkvloer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-wellbeing-op-de-jbc-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-wellbeing-op-de-jbc-werkvloer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-wellbeing-op-de-jbc-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/sip-share-wellbeing-on-the-jbc-work-floor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-wellbeing-op-de-jbc-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/sip-share-bien-etre-sur-le-lieu-de-travail-jbc",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-welzijn-in-de-fast-lane-met-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-welzijn-in-de-fast-lane-met-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-welzijn-in-de-fast-lane-met-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/sip-share-welzijn-in-de-fast-lane-met-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-welzijn-in-de-fast-lane-met-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/sip-share-well-being-in-the-fast-lane-with-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sip-share-welzijn-in-de-fast-lane-met-toyota-material-handling",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/sip-share-le-bien-etre-a-toute-vitesse-avec-toyota-material-handling",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaak-water-op-kantoor-gezond-duurzaam-en-futureproof",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/smaak-water-op-kantoor-gezond-duurzaam-en-futureproof",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaak-water-op-kantoor-gezond-duurzaam-en-futureproof",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/smaak-water-op-kantoor-gezond-duurzaam-en-futureproof",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaak-water-op-kantoor-gezond-duurzaam-en-futureproof",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/flavored-water-in-the-office-healthy-sustainable-and-future-proof",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaak-water-op-kantoor-gezond-duurzaam-en-futureproof",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/leau-aromatisee-au-bureau-saine-durable-et-evolutive",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaakwater-waarom-hydrateren-nog-nooit-zo-lekker-en-slim-was",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaakwater-waarom-hydrateren-nog-nooit-zo-lekker-en-slim-was",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaakwater-waarom-hydrateren-nog-nooit-zo-lekker-en-slim-was",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-hydrating-has-never-been-so-tasty-and-smart",
+      "permanent": true
+    },
+    {
+      "source": "/blog/smaakwater-waarom-hydrateren-nog-nooit-zo-lekker-en-slim-was",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-shydrater-na-jamais-ete-aussi-savoureux-et-intelligent",
+      "permanent": true
+    },
+    {
+      "source": "/blog/statiegeld-verplicht-in-nederland-vanaf-1-april-2023",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/statiegeld-verplicht-in-nederland-vanaf-1-april-2023",
+      "permanent": true
+    },
+    {
+      "source": "/blog/statiegeld-verplicht-in-nederland-vanaf-1-april-2023",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/statiegeld-verplicht-in-nederland-vanaf-1-april-2023",
+      "permanent": true
+    },
+    {
+      "source": "/blog/statiegeld-verplicht-in-nederland-vanaf-1-april-2023",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/deposit-mandatory-in-the-netherlands-from-april-1-2023",
+      "permanent": true
+    },
+    {
+      "source": "/blog/statiegeld-verplicht-in-nederland-vanaf-1-april-2023",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/depot-obligatoire-aux-pays-bas-a-partir-du-1er-avril-2023",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-evolution-of-the-office",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/the-evolution-of-the-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-evolution-of-the-office",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/the-evolution-of-the-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-evolution-of-the-office",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-evolution-of-the-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-evolution-of-the-office",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/levolution-du-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-master-labs-net-als-wij-maakt-dripl-bedrijven-beter",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-master-labs-net-als-wij-maakt-dripl-bedrijven-beter",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-master-labs-net-als-wij-maakt-dripl-bedrijven-beter",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/the-master-labs-just-like-us-dripl-makes-companies-better",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-master-labs-net-als-wij-maakt-dripl-bedrijven-beter",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-ontzorg-de-consument",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/trashtalk-ontzorg-de-consument",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-ontzorg-de-consument",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/trashtalk-ontzorg-de-consument",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-ontzorg-de-consument",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/trashtalk-unburden-the-consumer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-ontzorg-de-consument",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/trashtalk-soulager-le-consommateur",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-waarom-is-recycleren-niet-de-prioriteit-in-de-circulaire-economie-samen-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/trashtalk-waarom-is-recycleren-niet-de-prioriteit-in-de-circulaire-economie-samen-met-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-waarom-is-recycleren-niet-de-prioriteit-in-de-circulaire-economie-samen-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/trashtalk-waarom-is-recycleren-niet-de-prioriteit-in-de-circulaire-economie-samen-met-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-waarom-is-recycleren-niet-de-prioriteit-in-de-circulaire-economie-samen-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/trashtalk-why-is-recycling-not-the-priority-in-the-circular-economy-together-with-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-waarom-is-recycleren-niet-de-prioriteit-in-de-circulaire-economie-samen-met-karine-van-doorsselaer",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/trashtalk-pourquoi-le-recyclage-nest-il-pas-la-priorite-dans-leconomie-circulaire-avec-karine-van-doorsselaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-wat-gebeurt-er-met-onze-pmd-zak",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/trashtalk-wat-gebeurt-er-met-onze-pmd-zak",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-wat-gebeurt-er-met-onze-pmd-zak",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/trashtalk-wat-gebeurt-er-met-onze-pmd-zak",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-wat-gebeurt-er-met-onze-pmd-zak",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/trash-talk-what-happens-to-our-pmd-bag",
+      "permanent": true
+    },
+    {
+      "source": "/blog/trashtalk-wat-gebeurt-er-met-onze-pmd-zak",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/trash-talk-quarrive-t-il-a-notre-sac-pmd",
+      "permanent": true
+    },
+    {
+      "source": "/blog/van-blikjes-naar-een-waterdispenser-de-toekomst-van-frisdrank-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/van-blikjes-naar-een-waterdispenser-de-toekomst-van-frisdrank-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/van-blikjes-naar-een-waterdispenser-de-toekomst-van-frisdrank-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/van-blikjes-naar-een-waterdispenser-de-toekomst-van-frisdrank-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/van-blikjes-naar-een-waterdispenser-de-toekomst-van-frisdrank-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/from-cans-to-a-water-dispenser-the-future-of-soft-drinks-in-the-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/van-blikjes-naar-een-waterdispenser-de-toekomst-van-frisdrank-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/des-canettes-au-distributeur-deau-lavenir-des-boissons-gazeuses-au-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/verpakkingsvrije-en-of-duurzame-alternatieven-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/verpakkingsvrije-en-of-duurzame-alternatieven-op-kantoor-in-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/blog/verpakkingsvrije-en-of-duurzame-alternatieven-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/verpakkingsvrije-en-of-duurzame-alternatieven-op-kantoor-in-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/blog/verpakkingsvrije-en-of-duurzame-alternatieven-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/packaging-free-andor-sustainable-alternatives-at-the-office-in-the-netherlands",
+      "permanent": true
+    },
+    {
+      "source": "/blog/verpakkingsvrije-en-of-duurzame-alternatieven-op-kantoor-in-nederland",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/alternatives-sans-emballage-etou-durables-au-bureau-aux-pays-bas",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-maar-beter-geen-geld-vragen-voor-gezonde-snacks",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-bedrijven-maar-beter-geen-geld-vragen-voor-gezonde-snacks",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-maar-beter-geen-geld-vragen-voor-gezonde-snacks",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-bedrijven-maar-beter-geen-geld-vragen-voor-gezonde-snacks",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-maar-beter-geen-geld-vragen-voor-gezonde-snacks",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-companies-should-not-charge-money-for-healthy-snacks",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-maar-beter-geen-geld-vragen-voor-gezonde-snacks",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-les-entreprises-ne-devraient-pas-facturer-des-collations-saines",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-overschakelen-naar-duurzame-drankautomaten",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-bedrijven-overschakelen-naar-duurzame-drankautomaten",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-overschakelen-naar-duurzame-drankautomaten",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-bedrijven-overschakelen-naar-duurzame-drankautomaten",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-overschakelen-naar-duurzame-drankautomaten",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-companies-are-switching-to-sustainable-drinks-vending-machines",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-bedrijven-overschakelen-naar-duurzame-drankautomaten",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-les-entreprises-se-tournent-vers-des-distributeurs-automatiques-de-boissons-durables",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-dripl-de-henry-van-de-velde-award-voor-business-innovation-won",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-dripl-de-henry-van-de-velde-award-voor-business-innovation-won",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-dripl-de-henry-van-de-velde-award-voor-business-innovation-won",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-dripl-de-henry-van-de-velde-award-voor-business-innovation-won",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-dripl-de-henry-van-de-velde-award-voor-business-innovation-won",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-dripl-won-the-henry-van-de-velde-award-for-business-innovation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-dripl-de-henry-van-de-velde-award-voor-business-innovation-won",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-dripl-a-remporte-le-prix-henry-van-de-velde-pour-linnovation-commerciale",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-functionele-drinks-niet-meer-weg-te-denken-zijn-van-de-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-functionele-drinks-niet-meer-weg-te-denken-zijn-van-de-werkvloer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-functionele-drinks-niet-meer-weg-te-denken-zijn-van-de-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-functionele-drinks-niet-meer-weg-te-denken-zijn-van-de-werkvloer",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-functionele-drinks-niet-meer-weg-te-denken-zijn-van-de-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-functional-drinks-have-become-an-indispensable-part-of-the-workplace",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-functionele-drinks-niet-meer-weg-te-denken-zijn-van-de-werkvloer",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-les-boissons-fonctionnelles-sont-devenues-un-element-indispensable-du-lieu-de-travail",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-het-loont-te-rapporteren-over-duurzaamheidsinitiatieven",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-het-loont-te-rapporteren-over-duurzaamheidsinitiatieven",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-het-loont-te-rapporteren-over-duurzaamheidsinitiatieven",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-het-loont-te-rapporteren-over-duurzaamheidsinitiatieven",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-het-loont-te-rapporteren-over-duurzaamheidsinitiatieven",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-it-pays-to-report-on-sustainability-initiatives",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-het-loont-te-rapporteren-over-duurzaamheidsinitiatieven",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-il-est-payant-de-rendre-compte-des-initiatives-en-matiere-de-developpement-durable",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-je-oude-watertap-niet-meer-past-in-een-duurzaam-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-je-oude-watertap-niet-meer-past-in-een-duurzaam-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-je-oude-watertap-niet-meer-past-in-een-duurzaam-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-je-oude-watertap-niet-meer-past-in-een-duurzaam-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-je-oude-watertap-niet-meer-past-in-een-duurzaam-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/your-old-water-tap-no-longer-fits-in-a-sustainable-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-je-oude-watertap-niet-meer-past-in-een-duurzaam-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/votre-ancien-robinet-deau-ne-rentre-plus-dans-un-bureau-durable",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-wegwerpverpakkingen-vijand-nummer-1-zijn-voor-elk-bedrijf",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-wegwerpverpakkingen-vijand-nummer-1-zijn-voor-elk-bedrijf",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-wegwerpverpakkingen-vijand-nummer-1-zijn-voor-elk-bedrijf",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/waarom-wegwerpverpakkingen-vijand-nummer-1-zijn-voor-elk-bedrijf",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-wegwerpverpakkingen-vijand-nummer-1-zijn-voor-elk-bedrijf",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/why-disposable-packaging-is-enemy-number-1-for-every-company",
+      "permanent": true
+    },
+    {
+      "source": "/blog/waarom-wegwerpverpakkingen-vijand-nummer-1-zijn-voor-elk-bedrijf",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/pourquoi-les-emballages-jetables-sont-lennemi-numero-1-de-chaque-entreprise",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-betekent-statiegeld-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/wat-betekent-statiegeld-voor-jouw-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-betekent-statiegeld-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/wat-betekent-statiegeld-voor-jouw-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-betekent-statiegeld-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/what-does-a-deposit-mean-for-your-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-betekent-statiegeld-voor-jouw-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/que-signifie-une-caution-pour-votre-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-is-een-duurzaam-kantoor-echt",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/wat-is-een-duurzaam-kantoor-echt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-is-een-duurzaam-kantoor-echt",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/wat-is-een-duurzaam-kantoor-echt",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-is-een-duurzaam-kantoor-echt",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/what-really-is-a-sustainable-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-is-een-duurzaam-kantoor-echt",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/quest-ce-quun-bureau-durable",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-jonge-medewerkers-verwachten-van-hun-drinkaanbod-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/wat-jonge-medewerkers-verwachten-van-hun-drinkaanbod-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-jonge-medewerkers-verwachten-van-hun-drinkaanbod-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/wat-jonge-medewerkers-verwachten-van-hun-drinkaanbod-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-jonge-medewerkers-verwachten-van-hun-drinkaanbod-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/what-young-employees-expect-from-their-office-drinks-offering",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wat-jonge-medewerkers-verwachten-van-hun-drinkaanbod-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/ce-que-les-jeunes-salaries-attendent-de-leur-offre-de-boissons-au-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/water-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/water-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/water-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/this-is-how-you-make-drinking-water-attractive-in-the-office",
+      "permanent": true
+    },
+    {
+      "source": "/blog/water-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/comment-rendre-leau-potable-attrayante-au-bureau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/watertap-op-kantoor-meer-dan-alleen-water",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/watertap-op-kantoor-meer-dan-alleen-water",
+      "permanent": true
+    },
+    {
+      "source": "/blog/watertap-op-kantoor-meer-dan-alleen-water",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/watertap-op-kantoor-meer-dan-alleen-water",
+      "permanent": true
+    },
+    {
+      "source": "/blog/watertap-op-kantoor-meer-dan-alleen-water",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/blog/water-tap-in-the-office-why-hydration-is-more-than-just-water",
+      "permanent": true
+    },
+    {
+      "source": "/blog/watertap-op-kantoor-meer-dan-alleen-water",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/blog/robinet-deau-au-bureau-pourquoi-lhydratation-ne-se-resume-pas-a-de-leau",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zo-maak-je-hydratatie-aantrekkelijk-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/zo-maak-je-hydratatie-aantrekkelijk-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zo-maak-je-hydratatie-aantrekkelijk-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog/zo-maak-je-hydratatie-aantrekkelijk-op-kantoor",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zo-maak-je-hydratatie-aantrekkelijk-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zo-maak-je-hydratatie-aantrekkelijk-op-kantoor",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog-tag/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog-tag/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/pers-bericht/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/pers-bericht/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/jobs/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog-tag/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/blog-tag/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/pers-bericht/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/pers-bericht/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/jobs/:slug*",
       "permanent": true
     },
     {
@@ -922,17 +4453,6 @@
         }
       ],
       "destination": "https://drinkdripl.com/jobs/:slug*",
-      "permanent": true
-    },
-    {
-      "source": "/blog/:slug*",
-      "has": [
-        {
-          "type": "host",
-          "value": "fr.dripl.be"
-        }
-      ],
-      "destination": "https://drinkdripl.com/fr/blog/:slug*",
       "permanent": true
     },
     {
@@ -1010,6 +4530,50 @@
         }
       ],
       "destination": "https://drinkdripl.com/fr/resources/:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/nl/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "en.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/resources/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug*",
+      "has": [
+        {
+          "type": "host",
+          "value": "fr.dripl.be"
+        }
+      ],
+      "destination": "https://drinkdripl.com/fr/resources/blog",
       "permanent": true
     },
     {
